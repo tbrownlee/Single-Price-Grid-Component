@@ -212,7 +212,7 @@ main {
     }
 
     .second-section a {
-        box-shadow: 0rem .5rem 2rem 0rem rgba(0, 0, 0, .2);
+        box-shadow: 0rem .7rem 1.5rem 0rem rgba(0, 0, 0, .15);
         border-radius: var(--border-radius-button);
         padding: 1.3rem 1rem;
 
